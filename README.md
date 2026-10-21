@@ -7,7 +7,7 @@
 
   <p align="center" style="margin-top: 15px;">
     <a href="https://shyamdinesh.in"><img src="https://img.shields.io/badge/Portfolio-shyamdinesh.in-1f6feb?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-    <a href="mailto:venkataraovempali1969@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-ea4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="mailto:vempalishyamdinesh@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-ea4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
     <img src="https://komarev.com/ghpvc/?username=shyamatrix&color=238636&style=for-the-badge&label=PROFILE+VIEWS" />
   </p>
 </div>
